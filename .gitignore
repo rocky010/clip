@@ -165,3 +165,10 @@ dist
 .pnp.*
 
 .DS_Store
+
+## .gitignore for intellij
+ 
+*.iml
+*.ipr
+*.iws
+.idea/
