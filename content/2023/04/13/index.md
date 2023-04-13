@@ -1,6 +1,20 @@
+---
+title: ""
+date: 2023-04-13T22:09:18+08:00
+updated: 2023-04-13T22:09:18+08:00
+taxonomies:
+  tags: 
+extra:
+  source: https://medium.com/swlh/say-goodbye-to-chatgpt-here-are-new-ai-tools-that-will-blow-your-mind-ad5f7e278f84
+  hostname: medium.com
+  author: Nitin Sharma
+  original_title: "Say Goodbye to ChatGPT: Here Are New AI Tools That Will Blow Your Mind"
+  original_lang: en
+---
+
 ## Using these tools will surely take your productivity to the next level.
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*zIYMq2BjiXhOg6BEWc8gVg.jpeg)
+![](1zIYMq2BjiXhOg6BEWc8gVg.jpeg)
 
 Source: [Lexica](https://lexica.art/)
 
@@ -26,7 +40,7 @@ Later it will generate a presentation for you.
 
 I have used it personally by typing side hustle as a topic and you can see it also added a pie chart.
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*FemgYeYDgEBSmD27EmYnoA.png)
+![](1FemgYeYDgEBSmD27EmYnoA.png)
 
 For sure, you can edit your presentation, and even download it in a free plan with a watermark.
 
@@ -34,7 +48,7 @@ Cool, right?
 
 2\. [**Simplified**](https://simplified.com/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*gvMQyUjge2ilPdQA0nl50g.png)
+![](1gvMQyUjge2ilPdQA0nl50g.png)
 
 I recently came across a powerful tool that has left me absolutely impressed with its capabilities.
 
@@ -48,7 +62,7 @@ The best part is that this app offers a free forever plan that provides access t
 
 **3\.** [**Publer**](https://publer.io/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*FFTB0WQwpbIQETvESQCMPg.png)
+![](1FFTB0WQwpbIQETvESQCMPg.png)
 
 In today’s digital age, social media has become an essential tool for businesses, entrepreneurs, and marketers to promote their products or services and reach a wider audience.
 
@@ -64,7 +78,7 @@ Cool, right?
 
 **4\.** [**Ocoya**](https://www.ocoya.com/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/0*TEGYYDttgCfV4aDO.png)
+![](0TEGYYDttgCfV4aDO.png)
 
 If you’re looking to streamline your content creation process and stay ahead of the competition in today’s fast-paced digital landscape, look no further than the innovative platform known as Ocoya.
 
@@ -80,7 +94,7 @@ Whether you’re looking to create engaging content to get your business noticed
 
 **5\.** [**Krisp**](https://krisp.ai/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*mpPIm7HgwDoZuAqBwp20mg.png)
+![](1mpPIm7HgwDoZuAqBwp20mg.png)
 
 In today’s digital age, communication is more important than ever.
 
@@ -94,7 +108,7 @@ And the best part? Krisp is completely free to use. That’s right, you can enjo
 
 **6\.** [**Spirit Me**](https://spiritme.tech/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*S0a7SIQVIUXUj-9R6GoQFA.png)
+![](1S0a7SIQVIUXUj-9R6GoQFA.png)
 
 Creating a YouTube channel can be a great way to share your ideas, creativity, and expertise with a wider audience. However, one of the challenges that many creators face is establishing trust and credibility with their viewers.
 
@@ -112,7 +126,7 @@ So why not give it a try? It’s definitely cool and worth checking out!
 
 **7\.** [**Runway**](https://runwayml.com/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/0*g54mUuaxApHF2D44.png)
+![](0g54mUuaxApHF2D44.png)
 
 Are you excited about exploring the world of AI but overwhelmed by the number of tools available? Look no further than Runway — the ultimate solution for anyone interested in creating cutting-edge AI projects.
 
@@ -130,7 +144,7 @@ So why wait? Join the AI revolution today and try Runway for yourself. With its 
 
 **8\.** [**Sheet+**](https://sheetplus.ai/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*YTQkgytxE6Ezudb5hcw9Bg.png)
+![](1YTQkgytxE6Ezudb5hcw9Bg.png)
 
 Are you tired of manually inputting data and creating complex formulas for your spreadsheets?
 
@@ -146,7 +160,7 @@ So what are you waiting for? Sign up for Sheet+ today and start transforming you
 
 **9\.** [**Livelogue**](https://www.livelogue.com/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*0-BU-XM0YCCngJK3E-0JGQ.png)
+![](10-BU-XM0YCCngJK3E-0JGQ.png)
 
 As an online creator, I am always on the lookout for new and innovative platforms that can help individuals launch and run their businesses with ease. That’s why I was thrilled when I stumbled upon [Livelogue](https://www.livelogue.com/).
 
@@ -164,7 +178,7 @@ Livelogue only takes a small 5% commission when users make a sale, making it an 
 
 **10\.** [**Rationale**](https://rationale.jina.ai/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*cqBwCE0JFwug8Ew-dgvV-w.png)
+![](1cqBwCE0JFwug8Ew-dgvV-w.png)
 
 In today’s world, decision-making can be a daunting task, whether you’re an entrepreneur, a creative, or just someone looking to make the best choice. That’s where a tool like [Rationale](https://rationale.jina.ai/) comes in — an AI-powered solution designed to simplify the decision-making process.
 
@@ -182,7 +196,7 @@ So whether you’re a busy professional or just someone who values your time and
 
 **11\.** [**Beatoven**](https://www.beatoven.ai/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/0*fb6-hp_zZZOFCDEL.png)
+![](0fb6-hp_zZZOFCDEL.png)
 
 If you’re a music enthusiast with a passion for creating your own tracks but lack the technical knowledge or musical skill to do so, don’t worry! Beatoven is an innovative music platform that lets you use AI technology to create your own royalty-free music that’s perfect for setting the tone of your content.
 
@@ -196,7 +210,7 @@ With Beatoven, you can unleash your imagination and create some truly magical mu
 
 **12\.** [**Eesel**](https://www.eesel.app/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*afYFkVyYXQyDymVtLlimIQ.png)
+![](1afYFkVyYXQyDymVtLlimIQ.png)
 
 Are you overwhelmed with managing your digital assets? As a content creator or business owner, you likely have a lot of documents to keep track of.
 
@@ -212,7 +226,7 @@ So if you’re ready to take control of your digital assets and streamline your 
 
 **13\.** [**Midjourney**](https://www.midjourney.com/home/)**,** [**Lexica**](https://lexica.art/), [**PlaygroundAI**](https://playgroundai.com/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*kQA93rmkdN5Km1lpTwWDyQ.png)
+![](1kQA93rmkdN5Km1lpTwWDyQ.png)
 
 Source: Lexica
 
@@ -228,7 +242,7 @@ Whether it’s a blog post, social media content, or marketing material, AI-gene
 
 **14\.** [**Cleanvoice AI**](https://cleanvoice.ai/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/0*tDHV6K78yIEWEL58.png)
+![](0tDHV6K78yIEWEL58.png)
 
 Are you a podcaster who finds themselves spending hours editing their episodes? If so, you’re not alone. But what if I told you there was a tool that could make the process much faster and easier? That tool is CleanVoice.
 
@@ -242,7 +256,7 @@ So why waste any more time editing your podcast episodes the old-fashioned way? 
 
 **15\.** [**Murf**](https://murf.ai/), [**ElevenLabs**](https://beta.elevenlabs.io/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*4Gw3K8NTF6vIUSCJhCUfsA.png)
+![](14Gw3K8NTF6vIUSCJhCUfsA.png)
 
 Src: Murf
 
@@ -260,7 +274,7 @@ So give it a try and see the magic.
 
 **16\.** [**Flair**](https://flair.ai/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/0*MPlF4Co8OZqkOJLg.png)
+![](0MPlF4Co8OZqkOJLg.png)
 
 In today’s digital age, creating a strong brand identity is essential for any business’s success. However, crafting engaging and visually appealing content can be a time-consuming and expensive process. That’s where Flair comes in.
 
@@ -276,7 +290,7 @@ So, if you’re looking to streamline your branded content creation process and 
 
 **17\.** [**Mixo**](https://www.mixo.io/)**,** [**Durable**](https://durable.co/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/0*tFov_QLh_u1tozCK.png)
+![](0tFov_QLh_u1tozCK.png)
 
 Are you struggling to create a website that truly represents your brand and captures the attention of your audience? Look no further than Mixo and Durable, two powerful platforms that can create stunning websites for you in a matter of minutes.
 
@@ -290,7 +304,7 @@ And the best part? You don’t need any technical skills to get started.
 
 **18\.** [**Codeium**](https://www.codeium.com/)
 
-![](https://miro.medium.com/v2/resize:fit:1050/1*0PnDfhbYHKyuPJryQdJjIg.png)
+![](10PnDfhbYHKyuPJryQdJjIg.png)
 
 If you’re a developer or programmer, you may have heard about GitHub Copilot, the innovative tool that uses OpenAI’s Codex to suggest code and even entire functions in real time, directly from your code editor.
 
