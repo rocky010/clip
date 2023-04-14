@@ -4,10 +4,9 @@
 
 说明：
 
-1. 99% 的文章会提供**中英文双语版本**；
-2. 筛选标准：**半衰期尽可能较长**的文章；
-3. 本站内容均不是原创，如有侵权，联系删除；
-4. 更新频次不定，可根据左侧目录查看对应日期文章；
+1. 本站内容主要用户个人学习，均不是原创，如有侵权，联系删除；
+2. 本站模版复制<a href="https://www.owenyoung.com/about/" target="_blank">@OwenYoung</a>
+<a href="https://clip.owenyoung.com/" target="_blank">Owen's Clip</a>
 
 ---
 
