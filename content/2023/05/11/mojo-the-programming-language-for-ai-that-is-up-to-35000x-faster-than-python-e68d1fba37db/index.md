@@ -15,23 +15,6 @@ extra:
 ## Introducing Mojo — the new programming language for AI developers.  
 介绍 Mojo — 面向 AI 开发人员的新编程语言。
 
-[
-
-![The PyCoach](1veEX4-CiLz5jqUjwWfQo_Q.jpeg)
-
-
-
-](https://thepycoach.com/?source=post_page-----e68d1fba37db--------------------------------)[
-
-![Artificial Corner](1e1-WDgc0KCMKp_rHX9TyQQ.png)
-
-
-
-](https://artificialcorner.com/?source=post_page-----e68d1fba37db--------------------------------)
-
-5 min read 5 分钟阅读
-
-5 days ago 5天前
 
 ![](17C99OjDCnH6zBt-xihOjow.png)
 
