@@ -12,13 +12,6 @@ extra:
   original_lang: en
 ---
 
-[
-
-![smoul](1k3GDSD7MLzd9t0OzpC8Slw.jpeg)
-
-
-
-](https://moulshree.medium.com/?source=post_page-----af4c2e14f007--------------------------------)
 
 I could not have thought of a more obvious title but read till the end and you’ll know I mean it. Not because I am a philosophy expert but because this is something that I been preaching for the past 8 months and this head led me from making 0$ to 1000$  
 我想不出一个更明显的标题，但读到最后，你就会知道我是认真的。不是因为我是哲学专家，而是因为这是我过去 8 个月一直在宣扬的东西，这个头让我从 0 美元到 1000 美元

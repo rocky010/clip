@@ -1,5 +1,5 @@
 ---
-title: "2023 Top 10 ✅ 大任务管理工具"
+title: "2023 Top 10 大任务管理工具"
 date: 2023-05-16T09:50:51+08:00
 updated: 2023-05-16T09:50:51+08:00
 taxonomies:
@@ -12,13 +12,6 @@ extra:
   original_lang: en
 ---
 
-[
-
-![The Repository](1GcTfUdIzruW0JTkYbdxtDg.png)
-
-
-
-](https://medium.com/@therepository?source=post_page-----f16e1408b2ba--------------------------------)
 
 Small or large, it’s hard to keep track of tasks on a daily basis, especially when teams and businesses are often using a multitude of tools and methods through which you get assigned tasks.  
 无论大小，都很难每天跟踪任务，尤其是当团队和企业经常使用多种工具和方法来获得分配的任务时。
