@@ -15,13 +15,6 @@ extra:
 ## How to be a top performer and still get home for dinner.  
 如何成为顶级表演者，仍然回家吃晚饭。
 
-[
-
-![Duncan Jones][fig1]
-
-
-
-](https://duncansblog.medium.com/?source=post_page-----f2e93f76a7fe--------------------------------)
 
 ![][fig2]
 

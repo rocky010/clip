@@ -12,13 +12,6 @@ extra:
   original_lang: en
 ---
 
-[
-
-![Mary Mpembee][fig1]
-
-
-
-](https://marympembee.medium.com/?source=post_page-----10116004dd45--------------------------------)
 
 “_There’s no such thing as a good memory or a bad memory, there’s only a trained memory and an untrained memory_”  
 “没有好的记忆或坏的记忆，只有训练有素的记忆和未经训练的记忆”

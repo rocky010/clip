@@ -18,19 +18,6 @@ ChatGPT 改变了我编写软件的方式
 ## Generative AI has completely changed the way I approach software design. I don’t think I could ever go back.  
 生成式人工智能彻底改变了我进行软件设计的方式。我想我再也回不去了。
 
-[
-
-![Allen Helton][fig1]
-
-
-
-](https://allenheltondev.medium.com/?source=post_page-----23a2173eecae--------------------------------)[
-
-![Better Programming][fig2]
-
-
-
-](https://betterprogramming.pub/?source=post_page-----23a2173eecae--------------------------------)
 
 ![Image by vectorjuice on FreePik][fig3]
 
